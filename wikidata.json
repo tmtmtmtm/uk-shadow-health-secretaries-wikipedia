@@ -1,13 +1,6 @@
 [
   {
     "item": {
-      "value": "Q153454",
-      "label": "Diane Abbott"
-    },
-    "statement": "Q153454$6d872b09-4ca7-abbe-9702-7772abddebd5"
-  },
-  {
-    "item": {
       "value": "Q333250",
       "label": "Shirley Williams"
     },
@@ -34,6 +27,10 @@
       "value": "Q333250",
       "label": "Shirley Williams"
     },
+    "replacedBy": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
     "start": {
       "value": "1971-10-19T00:00:00Z",
       "precision": "11"
@@ -43,6 +40,52 @@
       "precision": "11"
     },
     "statement": "Q2883936$C50BC99E-9D47-49F5-A3F0-0B89D036E4C6"
+  },
+  {
+    "item": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "replaces": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replacedBy": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "start": {
+      "value": "1972-03-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6257849$0DB18701-7C88-41FF-B188-2B07AFC63C85"
+  },
+  {
+    "item": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "replaces": {
+      "value": "Q6257849",
+      "label": "John Silkin"
+    },
+    "replacedBy": {
+      "value": "Q332323",
+      "label": "Geoffrey Howe"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333694$325820E2-3A16-4ADC-8130-F21C54279226"
   },
   {
     "item": {
@@ -72,6 +115,10 @@
       "value": "Q332919",
       "label": "Norman Fowler"
     },
+    "replaces": {
+      "value": "Q332323",
+      "label": "Geoffrey Howe"
+    },
     "replacedBy": {
       "value": "Q24082",
       "label": "Patrick Jenkin"
@@ -85,6 +132,75 @@
       "precision": "11"
     },
     "statement": "Q332919$2ABBB90B-B597-479F-A7ED-917541CCA931"
+  },
+  {
+    "item": {
+      "value": "Q24082",
+      "label": "Patrick Jenkin"
+    },
+    "replaces": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "replacedBy": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "start": {
+      "value": "1976-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q24082$8BED697E-7373-493D-824B-AE79E305CF15"
+  },
+  {
+    "item": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "replaces": {
+      "value": "Q24082",
+      "label": "Patrick Jenkin"
+    },
+    "replacedBy": {
+      "value": "Q16294802",
+      "label": "Stanley Orme, Baron Orme"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5233398$3A2A729E-087F-4191-91A0-EF7397D3F25E"
+  },
+  {
+    "item": {
+      "value": "Q16294802",
+      "label": "Stanley Orme, Baron Orme"
+    },
+    "replaces": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "replacedBy": {
+      "value": "Q334006",
+      "label": "Gwyneth Dunwoody"
+    },
+    "start": {
+      "value": "1979-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16294802$01CD6E68-BA23-446C-A177-552DD1130D30"
   },
   {
     "item": {
@@ -137,6 +253,14 @@
       "value": "Q311214",
       "label": "Robin Cook"
     },
+    "replaces": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "replacedBy": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
     "start": {
       "value": "1987-07-13T00:00:00Z",
       "precision": "11"
@@ -146,6 +270,29 @@
       "precision": "11"
     },
     "statement": "Q311214$41E6AEC0-0DEF-4E65-91F9-3C38734662E4"
+  },
+  {
+    "item": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "replaces": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "replacedBy": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264196$3C1F5090-2695-43D4-BFF3-D304ACE9A308"
   },
   {
     "item": {
@@ -264,6 +411,29 @@
   },
   {
     "item": {
+      "value": "Q298846",
+      "label": "Ann Widdecombe"
+    },
+    "replaces": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "replacedBy": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-01-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q298846$E91F4D6D-DE08-4C62-88B0-1A8FF0B434FC"
+  },
+  {
+    "item": {
       "value": "Q332374",
       "label": "Liam Fox"
     },
@@ -289,6 +459,14 @@
     "item": {
       "value": "Q259961",
       "label": "Tim Yeo"
+    },
+    "replaces": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replacedBy": {
+      "value": "Q333276",
+      "label": "Andrew Lansley"
     },
     "start": {
       "value": "2003-11-11T00:00:00Z",
@@ -322,6 +500,29 @@
       "precision": "11"
     },
     "statement": "Q333276$a99063b1-40c5-3124-9e15-c6a809bbc43f"
+  },
+  {
+    "item": {
+      "value": "Q269909",
+      "label": "Andy Burnham"
+    },
+    "replaces": {
+      "value": "Q333276",
+      "label": "Andrew Lansley"
+    },
+    "replacedBy": {
+      "value": "Q615077",
+      "label": "John Healey"
+    },
+    "start": {
+      "value": "2010-05-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q269909$DF5D3E63-1D0F-4C6F-B9DD-2F3619B4D1B2"
   },
   {
     "item": {
@@ -391,5 +592,43 @@
       "precision": "11"
     },
     "statement": "Q259359$9c3a8006-4bd2-4d6c-7dda-51b38a632b62"
+  },
+  {
+    "item": {
+      "value": "Q153454",
+      "label": "Diane Abbott"
+    },
+    "replaces": {
+      "value": "Q259359",
+      "label": "Heidi Alexander"
+    },
+    "replacedBy": {
+      "value": "Q259895",
+      "label": "Jonathan Ashworth"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q153454$6d872b09-4ca7-abbe-9702-7772abddebd5"
+  },
+  {
+    "item": {
+      "value": "Q259895",
+      "label": "Jonathan Ashworth"
+    },
+    "replaces": {
+      "value": "Q153454",
+      "label": "Diane Abbott"
+    },
+    "start": {
+      "value": "2016-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259895$4AC3B100-E470-49EF-841D-555287340AE8"
   }
 ]
